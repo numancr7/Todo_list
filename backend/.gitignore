@@ -1,0 +1,12 @@
+
+# ignore node_module directory
+
+node_modules/
+.env
+
+echo "node_modules/
+   .env
+   .env.local
+   .env.development.local
+
+# other entries
